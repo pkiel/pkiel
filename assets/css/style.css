@@ -972,7 +972,7 @@ a:hover {
 # Portfolio Details
 --------------------------------------------------------------*/
 .portfolio-details {
-  padding-top: 40px;
+  padding-top: 100px;
 }
 
 .portfolio-details .portfolio-details-slider img {
@@ -1031,6 +1031,7 @@ a:hover {
 
 .portfolio-details .portfolio-description p {
   padding: 0;
+  font-size: 1.3em;
 }
 
 /*--------------------------------------------------------------
